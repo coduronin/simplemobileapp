@@ -1,0 +1,24 @@
+name: navigator
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+  intl: ^0.18.1
+  math_expressions: ^2.6.0
+  shared_preferences: ^2.3.0
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
