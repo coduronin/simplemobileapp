@@ -1,7 +1,3 @@
-# navigator
-
-A new Flutter project.
-=======
 # Simple Mobile App - Flutter Project
 
 This is a simple mobile application built with **Flutter**, featuring a **user signup form**, **calendar**, and **calculator** sections. The app showcases essential form handling capabilities such as input validation and responsive design, as well as useful utilities like a basic calendar and calculator for everyday tasks.
