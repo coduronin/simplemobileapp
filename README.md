@@ -66,4 +66,3 @@ To run this app on your local machine, follow these steps:
    ```bash
    flutter run
    ```
->>>>>>> 2f10b87aa268b4a542b0c8a930cd33e2b51ebccb
